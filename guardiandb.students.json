@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6614def55057b0147016c9b5"
+  },
+  "name": "Ayush Shaw",
+  "registration_number": "22215038",
+  "phone_number": "8546201876"
+},
+{
+  "_id": {
+    "$oid": "6614def55057b0147016c9b6"
+  },
+  "name": "Chris Jose",
+  "registration_number": "22215043",
+  "phone_number": "9657412305"
+},
+{
+  "_id": {
+    "$oid": "6614def55057b0147016c9b7"
+  },
+  "name": "Aditya Sebastian",
+  "registration_number": "22215006",
+  "phone_number": "9654120387"
+},
+{
+  "_id": {
+    "$oid": "6614def55057b0147016c9b8"
+  },
+  "name": "Harsh Singh",
+  "registration_number": "22215055",
+  "phone_number": "7841256380"
+},
+{
+  "_id": {
+    "$oid": "6614def55057b0147016c9b9"
+  },
+  "name": "Anmol Garg",
+  "registration_number": "22215020",
+  "phone_number": "7845261520"
+},
+{
+  "_id": {
+    "$oid": "6614def55057b0147016c9ba"
+  },
+  "name": "Abel Jacob",
+  "registration_number": "22215004",
+  "phone_number": "7852419608"
+},
+{
+  "_id": {
+    "$oid": "6614def55057b0147016c9bb"
+  },
+  "name": "Ganesh",
+  "registration_number": "22215073",
+  "phone_number": "8754213960"
+}]
